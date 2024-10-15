@@ -1,0 +1,20 @@
+[
+    {
+        "Description": "Micro colorschemes",
+        "License": "GPL-3.0-or-later",
+        "Name": "micro-colors",
+        "Tags": [
+            "colorschemes"
+        ],
+        "Versions": [
+            {
+                "Require": {
+                    "micro": ">=2.0.8"
+                },
+                "Url": "https://quinneden/micro-colors/archive/refs/head/main..zip",
+                "Version": "0.0.1"
+            }
+        ],
+        "Website": "https://github.com/quinneden/micro-colors"
+    }
+]

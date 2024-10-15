@@ -1,0 +1,55 @@
+# MIT License
+
+# Copyright (c) 2017 lmintmate
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+# A port of Emacs Blue Mood theme.
+# https://github.com/blue-mood/blue-mood-micro/blob/5629712478a6aca0541a1ce2bdd94ec2cece056d/bluemood-tc.micro
+
+color-link default "#F5F5F5,#104E8B"
+color-link comment "bold #B8B8B8"
+color-link comment.bright "#B8B8B8"
+color-link constant "bold #FF6347"
+color-link constant.string "#FF6347"
+color-link constant.string.url "#FF6347"
+color-link constant.bool "bold #00CDCD"
+color-link constant.number "#00FFFF"
+color-link constant.specialChar "#FF6347"
+color-link identifier "bold #00FFFF"
+color-link identifier.class "bold #7FFF00"
+color-link identifier.macro "#F5F5F5"
+color-link identifier.var "bold #7FFF00"
+color-link statement "bold #FFD700"
+color-link symbol "#F5F5F5"
+color-link symbol.brackets "#F5F5F5"
+color-link symbol.operator "bold #F5DEB3"
+color-link symbol.tag "bold #7FFF00"
+color-link preproc "bold #FFD700"
+color-link preproc.shebang "bold #B8B8B8"
+color-link type "bold #7FFF00"
+color-link type.keyword "bold #FFD700"
+color-link special "bold #7FFF00"
+color-link ignore "default"
+color-link divider "#104E8B,#B8B8B8"
+color-link error ",brightred"
+color-link todo "bold pink"
+color-link indent-char "#4978A7"
+color-link line-number "#B8B8B8"
+color-link current-line-number "bold #B8B8B8"
+color-link statusline "black,#BFBFBF"
+color-link tabbar "black,#BFBFBF"
+color-link cursor-line "#235C94"
+color-link diff-added "#7FFF00"
+color-link diff-modified "#FFD700"
+color-link diff-deleted "#FF6347"
+color-link gutter-error ",red"
+color-link gutter-warning "red"
+color-link color-column "#668B8B"
+color-link underlined "#00FFFF"

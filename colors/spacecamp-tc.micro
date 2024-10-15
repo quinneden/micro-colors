@@ -1,0 +1,48 @@
+# Copyright (c) 2020 github.com/Mrfiregem
+
+# https://github.com/Mrfiregem/micro-syntaxes/blob/master/colorschemes/spacecamp-tc.micro
+
+# Port of the vim theme, <https://github.com/jaredgorski/SpaceCamp>
+
+color-link default "#F8F8F8,#121212"
+color-link comment "#6B6B6B"
+
+color-link identifier "#F0D50C"
+color-link identifier.class "#91AADF"
+color-link identifier.var "#F8F8F8"
+
+color-link constant "#F66100"
+color-link constant.bool "#D8FA3B"
+color-link constant.number "#D8FA3B"
+color-link constant.specialChar "#F8F8F8"
+color-link constant.string "#57BA37"
+color-link constant.string.url "#F0D50C"
+
+color-link statement "#CF73E6"
+color-link symbol "#D8FA3B"
+color-link symbol.brackets "#F8F8F8"
+color-link symbol.operator "#CF73E6"
+color-link symbol.tag "#F0D50C"
+color-link preproc "#CF73E6"
+color-link type "#F8F8F8"
+color-link special "#F8F8F8"
+
+color-link underlined "underline #F8F8F8,#121212"
+color-link error "#F8F8F8,#821A1A"
+color-link todo "#121212,#6B6B6B"
+
+color-link statusline "#121212,#DEDEDE"
+color-link tabbar "#91AADF"
+
+color-link indent-char "#262626"
+color-link line-number "#6B6B6B,#262626"
+color-link gutter-error "#821A1A"
+color-link gutter-warning "#F66100"
+color-link cursor-line "#3E3D32"
+color-link current-line-number "#DEDEDE,#3E3D32"
+color-link color-column "#3E3D32"
+color-link divider "#6B6B6B"
+
+color-link diff-added "#57BA37"
+color-link diff-modified "#F0D50C"
+color-link diff-deleted "#821A1A"

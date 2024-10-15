@@ -1,0 +1,45 @@
+# Copyright (c) 2021 Reinaldy Rafli
+
+# https://github.com/aldy505/micro-night-owl/blob/f6fb656e312b6806f1911bb8e7424f82b00e2bbe/night-owl.micro
+
+#  Night Owl theme ported for Micro
+
+color-link default "#D6DEEB,#011627" # ok
+color-link color-column "#1B1B1B"
+color-link comment "#637777" # ok
+color-link constant "#5ca7e4" # ok
+color-link constant.bool "#ff5874" # ok
+color-link constant.bool.false "#ff5874" # ok
+color-link constant.bool.true "#ff5874" # ok
+color-link constant.number "#F78C6C" # ok
+color-link constant.specialChar "#DDF2A4" # ok
+color-link constant.string "#ECC48D" # ok
+color-link cursor-line "#01121f" # ok
+color-link divider "#1E1E1E"
+color-link error "#FFFFFF,#ff2c83" # ok
+color-link diff-added "#8FBCBB" # ok
+color-link diff-modified "#8FBCBB" # ok
+color-link diff-deleted "#D70000" # ok
+color-link gutter-error "#9B859D"
+color-link gutter-warning "#9B859D"
+color-link identifier "#c5e478"
+color-link identifier.macro ""
+color-link identifier.class "#c792ea" # ok
+color-link identifier.var "#c5e478" # ok
+color-link indent-char "#515151"
+color-link current-line-number "#4b6479,#000000" # ok
+color-link line-number "#868686,#1B1B1B"
+color-link preproc "#E0C589"
+color-link preproc.shebang "#ef1f23" # ok
+color-link special "#E0C589"
+color-link statement "#c792ea" # ok
+color-link statusline "#D6DEEB,#011627" # ok
+color-link symbol "#AC885B"
+color-link symbol.brackets "#ffd70d" # ok
+color-link symbol.operator "#c792ea" # ok
+color-link symbol.tag "#AC885B" # ok
+color-link tabbar "#F2F0EC,#2D2D2D"
+color-link todo "#8B98AB"
+color-link type "#c5e478" # ok
+color-link type.keyword "#c5e478"
+color-link underlined "#8996A8"

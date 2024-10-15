@@ -1,0 +1,36 @@
+# Copyright (c) 2020 github.com/dmaluka
+
+# https://github.com/dmaluka/donkey-colorscheme/blob/501032eaca8f63fc019c77d2720518bb240a6a36/donkey.micro
+color-link default "232,252"
+color-link comment "241"
+color-link identifier "88"
+color-link constant "160"
+color-link constant.string "23"
+color-link constant.specialChar "bold 131"
+color-link statement "bold 28"
+color-link preproc "bold 29"
+color-link type "bold 25"
+color-link special "bold 28"
+color-link error "bold 160"
+color-link todo "253,166"
+color-link statusline "bold 16,248"
+color-link statusline.inactive "16,248"     # requires https://github.com/zyedidia/micro/pull/1832
+color-link statusline.suggestions "16,248"  # requires https://github.com/zyedidia/micro/pull/1832
+color-link tabbar "16,248"
+color-link tabbar.active "bold 16,248"
+color-link selection "16,74"
+color-link hlsearch "16,180"                # requires https://github.com/zyedidia/micro/pull/1762
+color-link trailingws "174"                 # requires https://github.com/zyedidia/micro/pull/1897
+color-link tab-error "174"                  # requires https://github.com/zyedidia/micro/pull/1897
+color-link indent-char "244"
+color-link line-number "238"
+color-link current-line-number "238"
+color-link diff-added "34"
+color-link diff-modified "173"
+color-link diff-deleted "160"
+color-link gutter-error "124"
+color-link gutter-warning "23"
+color-link cursor-line "251"
+color-link color-column "251"
+color-link divider "248,16"
+color-link error-message "253,124"

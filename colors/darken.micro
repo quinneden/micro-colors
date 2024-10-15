@@ -1,0 +1,41 @@
+# MIT License
+
+# Copyright (c) 2021 github.com/informeai
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+# A dark colorscheme based on dark mode terminal for micro.
+
+# https://github.com/informeai/darken/blob/254e4a737c68cd7ebd630e39874564137d6b6b60/colorschemes/darken.micro
+
+color-link default "#DBDBDB,#0E0E12"
+color-link comment "#483C67"
+color-link identifier "#FF79C6"
+color-link constant "#AE81FF"
+color-link constant.string "#E6DB74"
+color-link constant.string.char "#BDE6AD"
+color-link statement "#E96379"
+color-link preproc "#F92672"
+color-link type "#4B98FA"
+color-link symbol "#E1E1E6"
+color-link symbol.tag "FF79D6"
+color-link symbol.brackets "#E7BE79"
+color-link special "#A6E22E"
+color-link underlined "#D33682"
+color-link error "bold #CB4B16"
+color-link todo "bold #D33682"
+color-link statusline "#0E0E12,#F8F8F2"
+color-link indent-char "#505050,#282828"
+color-link line-number "#679480,#0E0E12"
+color-link current-line-number "#67FF80,#0E0E12"
+color-link gutter-error "#CB4B16"
+color-link gutter-warning "#E6DB74"
+color-link cursor-line "#0E1E22"
+color-link color-column "#0E0E12"
+color-link statusline "#FFFFFF,#000000"

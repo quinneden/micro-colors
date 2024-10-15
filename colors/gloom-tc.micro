@@ -1,0 +1,120 @@
+# Copyright (c) 2022 taconi
+
+# A dark and gloomy pastel color syntax theme for Micro.
+#
+# Based on:
+#
+# * [Gloom (atom)](https://github.com/hejrobin/gloom)
+# * [Rebeca (emacs)](https://github.com/vic/rebecca-theme)
+
+
+color-link default "#f1eff8,#292a44"
+color-link comment "bold #666699"
+color-link comment.bright "bold #9494b8"
+color-link constant "#7aa5ff"
+color-link constant.bool "bold #efe4a1"
+color-link constant.bool.true "bold #efe4a1"
+color-link constant.bool.false "bold #efe4a1"
+color-link constant.number "#ff79c6"
+color-link constant.specialChar "#7aa5ff"
+color-link constant.string "#6dfedf"
+color-link constant.string.url "underline #6dfedf" #
+color-link identifier "bold #2de0a7"
+color-link identifier.class "bold #2de0a7" #
+color-link identifier.macro "bold #2de0a7" #
+color-link identifier.var "bold #2de0a7" #
+color-link statement "bold #7aa5ff"
+color-link symbol "#7aa5ff"
+color-link symbol.brackets "#f5f5f5"
+color-link symbol.operator "#f5f5f5" #
+color-link symbol.tag "#f5f5f5" #
+color-link preproc "#ff79c6"
+color-link preproc.shebang "#ff79c6" #
+color-link type "italic #2de0a7"
+color-link type.keyword "#2de0a7" #
+color-link special "bold #7aa5ff"
+color-link underlined "#ff79c6"
+color-link error "#ff206e"
+color-link selection "underline bold ,#312d3a"
+color-link statusline "#b8b8b8,#663399"
+color-link tabbar "#b8b8b8,#663399"
+color-link indent-char "default"
+color-link line-number "#4e4e4e"
+color-link gutter-error "#ff206e"
+color-link gutter-warning "#ffbc69"
+color-link diff-added "#19e589"
+color-link diff-modified "#ffbc69"
+color-link diff-deleted "#ed4781"
+color-link cursor-line "#383a62"
+color-link current-line-number "bold #b8b8b8"
+color-link color-column "#4b3862"
+color-link ignore "default"
+color-link scrollbar "default"
+color-link divider "#4b3862"
+color-link message "default"
+color-link error-message "#ff206e"
+
+# not documented
+color-link hlsearch "#000000,#B4EC85"
+color-link type.extended "default"
+color-link symbol.tag.extended "#f5f5f5"  # erb
+color-link line-number.scrollbar "#4e4e4e"
+color-link current-line-number.scroller "bold #b8b8b8"
+color-link underlined.url "underline #ff79c6"
+color-link constant.string.char "#6dfedf"
+color-link statement.reserved "bold #7aa5ff" # ada
+color-link type.storage "italic #2de0a7" # ada
+color-link constant.interpolation "#7aa5ff" # ada
+color-link constant.unicode "#7aa5ff" # ada
+color-link comment.line "bold #666699" # ada
+color-link comment.block "bold #666699" # ats
+color-link comment.rem "bold #666699" # bat
+color-link indent-char.whitespace "default" # imputrc
+color-link identifier.builtinfunc  "bold #2de0a7" # jinja2
+color-link identifier.builtintest  "bold #2de0a7" # jinja2
+color-link identifier.defaultglobal  "bold #2de0a7" # jinja2
+color-link statement.properties "bold #7aa5ff"  # kotlin
+color-link statement.control "bold #7aa5ff"  # kotlin
+color-link statement.class "bold #7aa5ff"  # kotlin
+color-link statement.member "bold #7aa5ff"  # kotlin
+color-link statement.access "bold #7aa5ff"  # kotlin
+color-link statement.parameter "bold #7aa5ff"  # kotlin
+color-link statement.meta "bold #7aa5ff"  # kotlin
+color-link type.collections "italic #2de0a7"  # kotlin
+color-link comment.shebang "bold #666699"  # kotlin
+color-link constant.string.exec "#6dfedf"  # ruby
+color-link statement.declaration "bold #7aa5ff"  # swift
+color-link statement.built_in "bold #7aa5ff"  # swift
+color-link preproc.DebugIdentifier "preproc"  # swift
+color-link type.ctypes "italic #2de0a7"  # swift
+color-link comment.doc "bold #9494b8"  # swift
+color-link identifier.os "bold #2de0a7" # v
+color-link identifier.compiler "bold #2de0a7" # v
+color-link identifier.platform "bold #2de0a7" # v
+color-link identifier.other "bold #2de0a7" # v
+color-link identifier.function "bold #2de0a7" # v
+color-link symbol.attribute "symbol" # v
+color-link constant.none "#7aa5ff" # v
+
+# new
+# PEP 350 (https://peps.python.org/pep-0350/)
+color-link todo "#5f6167"
+color-link todo.fixme "#5f6167"
+color-link todo.hack "#5f6167"
+color-link todo.bug "#5f6167"
+color-link todo.nobug "#5f6167"
+color-link todo.note "#5f6167"
+color-link todo.faq "#5f6167"
+color-link todo.alert "#5f6167"
+color-link todo.mnemonic "#5f6167"
+color-link todo.req "#5f6167"
+color-link todo.rfe "#5f6167"
+color-link todo.tip "#5f6167"
+color-link todo.idea "#5f6167"
+color-link todo.port "#5f6167"
+color-link todo.gloss "#5f6167"
+color-link todo.see "#5f6167"
+color-link todo.todoc "#5f6167"
+color-link todo.stat "#5f6167"
+color-link todo.rvd "#5f6167"
+color-link todo.cred "#5f6167"
