@@ -1,5 +1,5 @@
 # origin: https://github.com/zyedidia/micro/blob/7fd4f9f650bbc1d11e2824c6c84f8d824de2cb3e/runtime/colorschemes/cuddles.micro
-color-link default "#F8F8F2,#282828"
+color-link default "#F8F8F2,#E0282828"
 color-link comment "#75715E,#282828"
 
 color-link identifier "#66D9EF,#282828"
